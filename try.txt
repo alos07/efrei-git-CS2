@@ -1,3 +1,7 @@
 Bonjour, comment allez-vous? Bien, merci.
 
-Ceci est un contenu additionnel
+Ceci est un contenu ajouté dans le but d'effectuer l'exercice demandé.
+
+Cette phrase est également présente dans ce but.*
+
+On continue dans la mme idée.
