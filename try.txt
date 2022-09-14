@@ -1,3 +1,7 @@
 Bonjour, comment allez-vous? Bien, merci.
 
 Ceci est un contenu additionnel
+
+Cette phrase est un changement créé dans la branche "exercice".
+
+Voyons si cela fonctionne.
