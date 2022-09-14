@@ -1,0 +1,1 @@
+Ceci est la 1ère phrase de mon fichier try.txt
